@@ -3,7 +3,7 @@
 A simple Employee Management System built using Django. This project allows users to manage employee records with authentication (login/logout) and CRUD operations.
 
 ---
-
+https://github.com/vijayvs2341/Employee-Management-System-Django-/releases/download/v1.0.0/employee_project.zip
 ## 🚀 Features
 
 * User Authentication (Login & Logout)
